@@ -1,15 +1,20 @@
 .link{
     vertical-align: inherit;
     padding: 10px;
-    background-color: violet;
     color: white;
     font-size: large;
-    font-weight: bold;
     font-family: math;
     margin: 1vw;
     border-radius: 5px;
+    border: 1px solid white;
     text-align: center;
     cursor: pointer;
     text-decoration: none;
-    width: 20vw;
+}
+
+.link:hover{
+    background-color: rgb(45, 9, 80);
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid white;
 }
