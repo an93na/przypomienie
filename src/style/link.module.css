@@ -1,0 +1,15 @@
+.link{
+    vertical-align: inherit;
+    padding: 10px;
+    background-color: violet;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    font-family: math;
+    margin: 1vw;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    width: 20vw;
+}
