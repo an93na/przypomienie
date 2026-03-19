@@ -28,6 +28,7 @@ export const Strona1 = () => {
         <li>Last Name: <b>{user.lastName}</b></li>
         <li>Age: <b>{user.age}</b></li>
       </ul>
+      <p>{przykladowaZmienna}</p>
       <div>
         <p>wynik dodawania 5 + 10 = {addTwoNumbers(5, 10)}</p>
         <p>wynik mnożenia 5 * 10 = {wynikMnozenia}</p>
