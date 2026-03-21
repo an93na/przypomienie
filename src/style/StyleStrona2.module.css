@@ -3,3 +3,15 @@
     text-align: center;
     font-weight: bold;
 }
+.pogrubienie{
+    font-weight: bold;
+}
+.zielony{
+    color: darkgreen;
+}
+.niebieski{
+    color: blue;
+}
+.przekresl{
+    text-decoration: line-through;
+}
