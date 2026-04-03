@@ -1,6 +1,7 @@
 import React from 'react'
 import style2 from '../style/StyleStrona2.module.css'
 import { Strona4 } from './Strona4'
+import { KomponentyIRelacje } from './KomponentyIRelacje'
 
 export const Strona2 = () => {
   return (
@@ -16,6 +17,7 @@ export const Strona2 = () => {
         </p>
       </div>
       <Strona4 />
+      <KomponentyIRelacje/>
     </article>
   )
 }
